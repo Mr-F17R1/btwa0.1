@@ -1,0 +1,26 @@
+{
+  "ownerNumber": "0@s.whatsapp.net",
+  "ownerName": "rc",
+  "botName": "BclassBOT",
+  "packname": "follow",
+  "author": "fikrisalam",
+  "pathimg": "./media/yoshino.jpg",
+  "apikey": {
+    "caliph": "caliphkey"
+  },
+  "hmm": {
+    "yt": "https://youtube.com/",
+    "ig": "https://instagram.com/",
+    "linkmenu": "https://chat.whatsapp.com/CazkP3DOrQO2vX1zin9tQj"
+  },
+  "donasi": {
+	"dana": "082373993643",
+	"gopay": "082373993643"
+  },
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
